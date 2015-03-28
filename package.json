@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "My implementation of the [Solarized](http://ethanschoonover.com/solarized) Dark color scheme.",
-  "repository": "https://github.com/atom/jonikorpi-atom-syntax-theme",
+  "repository": "https://github.com/jonikorpi/jonikorpi-atom-solarized-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
