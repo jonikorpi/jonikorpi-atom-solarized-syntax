@@ -1,5 +1,7 @@
 # jonikorpi-atom-syntax-theme theme
 
-A short description of your theme.
+My implementation of the [Solarized](http://ethanschoonover.com/solarized) Dark color scheme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Goes nicely with my [UI theme](https://atom.io/themes/jonikorpi-atom-theme-ui).
+
+![screenshot](https://dl.dropboxusercontent.com/u/1231109/Screenshot%202015-03-28%2015.18.36.png)
