@@ -1,7 +1,7 @@
 {
   "name": "jonikorpi-atom-solarized-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My implementation of the [Solarized](http://ethanschoonover.com/solarized) Dark color scheme.",
   "repository": "https://github.com/jonikorpi/jonikorpi-atom-solarized-syntax",
   "license": "MIT",
